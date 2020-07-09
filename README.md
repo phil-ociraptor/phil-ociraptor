@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Phil and I'm currently working on a variety of projects:
+ - [Feather](https://feather.id/)
+ - [Summer of Shipping](https://summerofshipping.com/)
+ - [Software Mentor Newsletter](https://softwarementor.substack.com/)
+ 
+You can also find me on Twitter [@pliao39](https://twitter.com/pliao39)!
+
+Not much of my work is public on GitHub, but you can check out how I like
+to learn things at: https://github.com/phil-ociraptor/4clojure-lessons
+
 <!--
 **phil-ociraptor/phil-ociraptor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
