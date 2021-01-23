@@ -5,7 +5,7 @@ I'm Phil and I'm currently working on a variety of projects:
  - [Summer of Shipping](https://summerofshipping.com/)
  - [Software Mentor Newsletter](https://softwarementor.substack.com/)
  
-You can also find me on Twitter [@pliao39](https://twitter.com/pliao39)!
+You can also find me on Twitter [@philipliao_](https://twitter.com/philipliao_)!
 
 Not much of my work is public on GitHub, but you can check out how I like
 to learn things at: https://github.com/phil-ociraptor/4clojure-lessons
