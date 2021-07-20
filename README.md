@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Phil and I'm currently working on a variety of projects:
+I'm Phil and I'm currently working at 0x.
+
+Some past projects you may be looking for:
  - [Feather](https://feather.id/)
  - [Summer of Shipping](https://summerofshipping.com/)
  - [Software Mentor Newsletter](https://softwarementor.substack.com/)
