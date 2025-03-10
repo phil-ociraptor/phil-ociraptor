@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I'm Phil and I'm currently working at 0x.
+I'm Phil and I'm currently working at [Megaphone](https://www.megaphone.xyz/). In the past, I worked at [0x](https://0x.org/) where I worked on RFQ, Gasless, Intents, and some Routing.
 
 Some past projects you may be looking for:
- - [Feather](https://feather.id/)
  - [Summer of Shipping](https://summerofshipping.com/)
  - [Software Mentor Newsletter](https://softwarementor.substack.com/)
  
